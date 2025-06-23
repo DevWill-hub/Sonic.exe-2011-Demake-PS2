@@ -3,12 +3,12 @@ Uma **Recriação** para o Playstation 2 de um dos primeiros jogos horror do Son
 
 # **versões**
 - ELF:
-1.Download Sonic.exe Demake PS2.zip
 
+1.Download Sonic.exe Demake PS2.zip
 2.
 - ISO:
-1.Download Sonic.exe Demake PS2.zip
 
+1.Download Sonic.exe Demake PS2.zip
 2.
 
 # **Créditos**
