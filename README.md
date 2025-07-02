@@ -3,9 +3,9 @@ Uma **Recriação** para o Playstation 2 de um dos primeiros jogos horror do Son
 
 # **versões**
 ### ELF:
-- 1. 
+1. 
 ### ISO:
-- 1.
+1.
 
 # **Créditos**
 - O jogo foi desenvolvindo com a engine [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) de [DanielSant0s](https://github.com/DanielSant0s).
