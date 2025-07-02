@@ -3,9 +3,16 @@ Uma **Recriação** para o Playstation 2 de um dos primeiros jogos horror do Son
 
 # **Versões**
 ### ELF:
-1. download do arquivo `zip`.
+1. Baixe o arquivo `.zip`.
+2. Extraia todos os arquivos para um pendrive em formato FAT32 e insira-o no Playstation 2 (modificado com FreeMcBoot ou Funtuna).
+3. Use o **UlaunchElf** (incluído no FreeMCBoot/Funtuna) para encontrar o arquivo Sonic.exe 2011.elf no drive "mass:/" para iniciar o jogo
+
+Observação para emuladores:
+* No PCSX2, ative a opção **Habilitar Sistema de Arquivos Host** em Configurações->Emulação e encontre o arquivo Sonic.exe 2011.elf.
+* O AetherSX2 não permite o carregamento do arquivo elf do Athena.
+
 ### ISO:
-1. download da imagem `iso`.
+- Em breve...
 
 # **Créditos**
 - O jogo foi desenvolvindo com a engine [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) de [DanielSant0s](https://github.com/DanielSant0s).
