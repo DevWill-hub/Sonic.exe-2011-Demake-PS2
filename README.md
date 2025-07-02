@@ -1,11 +1,11 @@
 # **Sonic.exe 2011 Demake PS2**
 Uma **Recriação** para o Playstation 2 de um dos primeiros jogos horror do Sonic laçando em 2011.
 
-# **versões**
+# **Versões**
 ### ELF:
-1. 
+1. download do arquivo `zip`.
 ### ISO:
-1.
+1. download da imagem `iso`.
 
 # **Créditos**
 - O jogo foi desenvolvindo com a engine [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) de [DanielSant0s](https://github.com/DanielSant0s).
