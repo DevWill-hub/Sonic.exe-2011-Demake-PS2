@@ -21,7 +21,7 @@ Uma **recriação** para PlayStation 2 de um dos primeiros jogos de terror do So
 
 ## **Status do Projeto**
 Este projeto revive uma lenda dos fangames da SEGA no PS2.  
-⚠️ **Aviso:** Esta demo pode ser a única versão lançada devido às limitações de desenvolvimento.  
+**Aviso:** Esta demo pode ser a única versão lançada devido às limitações de desenvolvimento.  
 Melhorias graduais serão implementadas - aproveite!
 
 # **Créditos**
