@@ -10,11 +10,11 @@ Uma **recriação** para PlayStation 2 de um dos primeiros jogos de terror do So
 2. Extraia todos os arquivos para um pendrive em formato FAT32.
 3. No PS2 (com FreeMcBoot/Funtuna):
    - Abra o **uLaunchELF**
-   - Navegue até `mass:/` e execute `Sonic.exe_2011.ELF`
+   - Navegue até `mass:/` e execute `Sonic.exe_2011.elf`
 
 *Observações para emuladores:*
 - **PCSX2**: Ative *Sistema de Arquivos do Host* em Configurações > Emulação.
-- **AetherSX2**: Não suporta execução de ELF via AthenaEnv.
+- **AetherSX2**: Não suporta execução de ELF do Athena.
 
 ### Versão ISO:
 *Em breve...*
