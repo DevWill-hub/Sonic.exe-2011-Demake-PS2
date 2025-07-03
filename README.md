@@ -14,6 +14,9 @@ Observação para emuladores:
 ### ISO:
 - Em breve...
 
+# **Anúncios**
+O projeto tendem a criar revive uma lenda dos jogos mais famosos da sega agora para o PlayStation 2, só que.. sim talvez esse demo sejam a última pois eu acredito que a menoria sabe é difícil fazer um jogo grande sozinho mais vou melhorar essa demonstração pouco a pouco, bem, é isso galera tenha uma boa jogatina!
+
 # **Créditos**
 - O jogo foi desenvolvindo com a engine [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) de [DanielSant0s](https://github.com/DanielSant0s).
 - SceneManager um gereciando de cenas criando por [Dev Noob](https://github.com/ps2devnoob) é uma parte crucial para que projeto tenha sido feito.
