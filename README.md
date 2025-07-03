@@ -21,4 +21,3 @@ O projeto tendem a criar revive uma lenda dos jogos mais famosos da sega agora p
 - O jogo foi desenvolvindo com a engine [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) de [DanielSant0s](https://github.com/DanielSant0s).
 - SceneManager um gereciando de cenas criando por [Dev Noob](https://github.com/ps2devnoob) é uma parte crucial para que projeto tenha sido feito.
 - Estrutura de pastas baseando no [DDLC-PS2-Source](https://github.com/d3vsaurio/DDLC-PS2-Source) feito por [DevSaurio](https://github.com/d3vsaurio).
----
