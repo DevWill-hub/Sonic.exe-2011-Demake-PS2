@@ -1,7 +1,9 @@
-# **Sonic.exe 2011 Demake PS2**
+<div align="center">
+  <h1>Sonic.exe 2011 Demake PS2</h1>
+</div>
 Uma **Recriação** para o Playstation 2 de um dos primeiros jogos horror do Sonic laçando em 2011.
 
-# **Versões**
+## **Versões**
 ### ELF:
 1. Baixe o arquivo `.zip`.
 2. Extraia todos os arquivos para um pendrive em formato FAT32 e insira-o no Playstation 2 (modificado com FreeMcBoot ou Funtuna).
@@ -14,7 +16,7 @@ Observação para emuladores:
 ### ISO:
 - Em breve...
 
-# **Anúncios**
+## **Anúncios**
 O projeto tendem a criar revive uma lenda dos jogos mais famosos da sega agora para o PlayStation 2, só que.. sim talvez esse demo sejam a última pois eu acredito que a menoria sabe é difícil fazer um jogo grande sozinho mais vou melhorar essa demonstração pouco a pouco, bem, é isso galera tenha uma boa jogatina!
 
 # **Créditos**
