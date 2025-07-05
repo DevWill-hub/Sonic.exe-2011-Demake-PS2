@@ -14,6 +14,7 @@ Uma **recriação** para PlayStation 2 de um dos primeiros jogos de terror do So
 
 *Observações para emuladores:*
 - **PCSX2**: Ative *Sistema de Arquivos do Host* em Configurações > Emulação.
+ ![Tutorial HostFS](tutorialhostfs.png)
 - **AetherSX2**: Não suporta execução de ELF do Athena.
 
 ### Versão ISO:
